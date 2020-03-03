@@ -1,4 +1,4 @@
-ipython_notebook_goodies
+ipython_toc
 ========================
 
 Random goodies for use in iPython Notebooks. 
@@ -20,5 +20,5 @@ and provides anchors (added where needed).
 2. Add a *code* cell anywhere in the notebook with the following:
 ```
 %%javascript
-$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+$.getScript('https://mauhcstenten.github.io/jupyter_toc/ipython_notebook_toc.js')
 ```
